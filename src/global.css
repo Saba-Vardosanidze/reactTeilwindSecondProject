@@ -1,0 +1,9 @@
+@import "tailwindcss";
+body {
+  background-color: #141414;
+  font-family: "Manrope-Regular";
+}
+@font-face {
+  font-family: "Manrope-Regular";
+  src: url("./fonts/Manrope-Regular.ttf");
+}
